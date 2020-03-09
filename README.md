@@ -16,7 +16,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Brightloom | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Bungie[[1]](https://www.bungie.net/en/Explore/Detail/News/48839) | Required | ? | ? | ? | 2020-03-05 |
-| Buzzfeed | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | charity: water | Required | Restricted | Restricted | Restricted | 2020-3-06 |
 | Cisco | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | Cloudflare | ? | Restricted | Restricted | Restricted | 2020-03-04 |
@@ -76,6 +75,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Twitter[[1]](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Required | Restricted | Restricted | Restricted | 2020-03-03 |
 | Typless[[1]](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | VSCO | Required | Restricted | ? | ? | 2020-03-06 |
+| VMware | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
 | Wikimedia Foundation[[1]](https://wikimediafoundation.org/news/2020/03/06/wikimedia-foundation-will-close-san-francisco-office-and-encourage-remote-work-for-march-2020-amidst-covid-19-concerns/) | Encouraged, required for San Francisco office | Restricted | Restricted | Restricted | 2020-03-06 |
 | Wish | Encouraged, required for some locations | Restricted | Restricted | Restricted | 2020-03-05 |
 | Workday | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
@@ -188,6 +188,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [TSConf EU](https://twitter.com/tsconfeu/status/1235135186033139713): postponed
 - [TwitchCon Amsterdam](https://twitter.com/TwitchCon/status/1235942102556651521?s=20): cancelled
 - [Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020): cancelled
+- [VMware](https://www.vmware.com/): going online-only
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [Women in Cybersecurity (WiCyS) 2020](https://www.wicys.org/): cancelled, looking for alternative options TBD
 - [WWCode CONNECT India 2020](https://www.womenwhocode.com/blog/coronavirus-update-a-note-from-our-ceo): postponed
